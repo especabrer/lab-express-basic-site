@@ -1,0 +1,40 @@
+.descr{
+    border: 1px solid black;
+    padding: 20px;
+    margin: 30px;
+}
+
+h1 {
+    padding-left: 40px;
+    margin: 30px
+}
+
+h2 {
+    padding-bottom: 40px;
+}
+.discoFilm{
+    display:flex;
+    margin: 0 20px 0 20px
+
+}
+.disco{
+    padding: 40px;
+    border: 1px black solid;
+    margin: 0 10px 20px 10px;
+ 
+}
+
+.disco img{
+    width: 400px;
+}
+
+
+.filmo{
+    padding: 40px;
+    border: 1px black solid;
+    margin: 0 10px 20px 10px;
+}
+
+.filmo img{
+    width: 500px;
+}
